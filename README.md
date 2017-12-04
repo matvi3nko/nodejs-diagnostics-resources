@@ -6,4 +6,6 @@ Resources links from my talk "Node.js applications diagnostics under the hood"
 2. node-report https://github.com/nodejs/node-report 
 3. build D8 https://github.com/v8/v8/wiki/Building-from-Source 
 4. D8 find memory leaks https://github.com/v8/v8/wiki/Memory-Leaks
+5. how to handle libuv in node-report https://developer.ibm.com/node/2017/06/09/additional-libuv-handle-information-node-report-2-2-0/
+
 
