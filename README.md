@@ -122,5 +122,5 @@ https://www.youtube.com/watch?v=88OLQ_fb2Oo&list=PLfMzBWSH11xYaaHMalNKqcEurBH8Ls
 
 59. Uv_fs_read: http://docs.libuv.org/en/v1.x/fs.html
 
-74. Диагностика на JAVA 2 часа доклад (тоже полезно!) https://www.youtube.com/watch?v=0pyZERLBZvQ
+74. Diagnostics of JAVA applications (usefull!) https://www.youtube.com/watch?v=0pyZERLBZvQ
 
